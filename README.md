@@ -1,3 +1,3 @@
 # train_three.js
 
-ezr
+ez
